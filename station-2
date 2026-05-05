@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Geburtstagsbotschaft</title>
+</head>
+<body>
+  <h1>Alles Liebe zum Geburtstag ❤️</h1>
+
+  <p>Drück auf Play, um deine nächste Nachricht anzuhören.</p>
+
+  <audio controls>
+    <source src="audio/station 2.mp3" type="audio/mp3">
+    
+  </audio>
+</body>
+</html>
