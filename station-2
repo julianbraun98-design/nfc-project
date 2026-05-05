@@ -10,7 +10,7 @@
   <p>Drück auf Play, um deine nächste Nachricht anzuhören.</p>
 
   <audio controls>
-    <source src="audio/station 2.mp3" type="audio/mp3">
+    <source src="Station 2.mp3" type="audio/mp3">
     
   </audio>
 </body>
